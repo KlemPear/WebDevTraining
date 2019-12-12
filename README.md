@@ -1,2 +1,2 @@
 # WebDev
-WebDev Sandbox of Udemy tutoria: The Web Developer Bootcamp
+WebDev Sandbox of Udemy tutorial: The Web Developer Bootcamp
